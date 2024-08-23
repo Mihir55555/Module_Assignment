@@ -1,0 +1,3 @@
+Name: Mark Williams, Age: 30, Salary: 50000
+Name: Elaine Smith, Age: 25, Salary: 60000
+Name: Michael Jackson, Age: 35, Salary: 75000

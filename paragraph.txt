@@ -1,0 +1,1 @@
+ Develop python script that opens an existing text file named "invetory.txt" in read mode and displays the contents of file line by line
